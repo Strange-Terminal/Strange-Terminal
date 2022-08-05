@@ -1,6 +1,6 @@
 import os,platform
 print("Hello in Strange Terminal")
-keywords=["CW","CWV"]
+commands=["CW","CWV"]
 while True:
     command=input(str(os.path.abspath(os.getcwd()))+">>")
     if "CW" in command:
