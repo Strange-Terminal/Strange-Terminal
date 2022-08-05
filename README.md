@@ -1,16 +1,12 @@
-### Hi there 👋
+## Strange-Terminal
+# I'am Create New Simple Terminal With Python 
 
-<!--
-**Strange-Terminal/Strange-Terminal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+commnads:
+  CW or cw  -> Write in The consle
+  example: CW "hello"
+  output:hello
+  CWV Or cwv -> Write Var in The consle
+  example:
+  x=200
+  CWV x
+  output:200
